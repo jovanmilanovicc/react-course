@@ -2,7 +2,7 @@ import React from "react";
 
 import classes from './MealsSummary.module.css';
 
-const MealsSummary = props => {
+const MealsSummary = () => {
     return(
         <section className={classes.summary}>
             <h2>Neki random tekst</h2>
